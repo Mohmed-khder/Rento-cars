@@ -63,7 +63,7 @@
     "picomatch": "^2.3.2",
     "pify": "^2.3.0",
     "pirates": "^4.0.6",
-    "postcss": "^8.5.2",
+    "postcss": "^8.5.25",
     "postcss-import": "^15.1.0",
     "postcss-js": "^4.0.1",
     "postcss-load-config": "^4.0.2",
